@@ -28,14 +28,6 @@ For projects submitted to the Code with Kiro Hackathon, ALL requirements below m
 - ✅ **Complete Documentation** - Text description explaining features and functionality
 - ✅ **Kiro Usage Writeup** - Explanation of how Kiro was used in development
 
-### Community Projects (Non-Hackathon)
-
-- ✅ Project built using Kiro
-- ✅ Link to article, blog post, or documentation
-- ✅ Clear project description
-- 🌟 Repository link (recommended)
-- 🌟 Live demo link (recommended)
-
 ## Hackathon Categories
 
 Choose the most appropriate category for your project:

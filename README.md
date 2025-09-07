@@ -1,15 +1,8 @@
 # Awesome Kiro Hackathon Projects
 
-> A curated list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
+> A community made list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
 
 [Kiro](https://kiro.dev) transforms software development through spec-driven development, intelligent architecture decisions, and AI-assisted development workflows. This showcase highlights the incredible projects created by participants in the Code with Kiro Hackathon.
-
-## Hackathon Information
-
-**Submission Period:** July 14 - September 15, 2025  
-**Judging Period:** September 29 - October 20, 2025  
-**Winners Announced:** October 24, 2025  
-**Participants:** Limited to ~10,000 registered developers
 
 ## Contents
 
@@ -59,6 +52,13 @@
 - [Hackathon Rules](https://kiro.devpost.com/rules) - Complete official rules and requirements.
 - [Kiro Discord](https://discord.gg/kirodotdev) - Join the Kiro community on Discord.
 - [Kiro Community Reddit](https://www.reddit.com/r/kiroIDE/) - Discuss Kiro-related topics
+
+## Hackathon Information
+
+**Submission Period:** July 14 - September 15, 2025  
+**Judging Period:** September 29 - October 20, 2025  
+**Winners Announcement:** October 24, 2025  
+**Participants:** Limited to ~10,000 registered developers
 
 ## Contributing
 
