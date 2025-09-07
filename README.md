@@ -26,7 +26,7 @@
 *Make something expressive, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
 
 - **[Hacs 98](https://devpost.com/software/hacs-98)** - Windows 98 clone featuring calculator, notepad, Minecraft, solitaire, paint, and browser built with iterative Kiro development. 
-- **[Movie Plot Finder](https://dev.to/kirodotd ev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
+- **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 
 *Submit your games and entertainment projects built with Kiro!*
 
