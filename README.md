@@ -1,6 +1,6 @@
 # 🚀 Kiro Hackathon Showcase
 
-Welcome to the official showcase repository for [Kiro](https://kiro.devpost.com/) hackathon projects! This is a community-curated collection of amazing applications, tools, and experiments built using Kiro's AI-powered development environment.
+Welcome to the showcase repository for [Kiro](https://kiro.devpost.com/) hackathon projects! This is a community-curated collection of amazing applications, tools, and experiments built using Kiro's AI IDE development environment.
 
 ## 🎯 About Kiro
 

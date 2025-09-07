@@ -1,0 +1,120 @@
+name: Add New Project
+description: Submit your Kiro-built project to the showcase
+title: "Add Project: [Your Project Name]"
+labels: ["new-project", "contribution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the Kiro Hackathon Showcase! Please fill out the information below to add your project.
+        
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: What's the name of your project?
+      placeholder: "e.g., Movie Plot Finder, EVI Analytics Platform"
+    validations:
+      required: true
+      
+  - type: input
+    id: author
+    attributes:
+      label: Author Name
+      description: Your name or username
+      placeholder: "e.g., John Doe"
+    validations:
+      required: true
+      
+  - type: input
+    id: author-profile
+    attributes:
+      label: Author Profile Link
+      description: Link to your dev.to, GitHub, or personal profile
+      placeholder: "https://dev.to/yourprofile or https://github.com/yourusername"
+    validations:
+      required: true
+      
+  - type: input
+    id: article-link
+    attributes:
+      label: Article Link
+      description: Link to your blog post, article, or documentation about the project
+      placeholder: "https://dev.to/your-article-about-the-project"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: Brief description of your project (2-3 sentences)
+      placeholder: "A clear, concise description of what your project does and its main value proposition..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: technologies
+    attributes:
+      label: Technologies Used
+      description: List the main technologies, frameworks, and APIs used
+      placeholder: "React, Node.js, OpenAI API, Tailwind CSS"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: key-features
+    attributes:
+      label: Key Features
+      description: List 3-5 key features of your project
+      placeholder: |
+        - Feature 1: Brief description
+        - Feature 2: Brief description
+        - Feature 3: Brief description
+    validations:
+      required: true
+      
+  - type: input
+    id: repo-link
+    attributes:
+      label: Repository Link (Optional)
+      description: Link to your GitHub repository if public
+      placeholder: "https://github.com/yourusername/your-project"
+    validations:
+      required: false
+      
+  - type: input
+    id: demo-link
+    attributes:
+      label: Live Demo Link (Optional)
+      description: Link to a live demo or deployed version
+      placeholder: "https://your-project.com"
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Project Verification
+      description: Please confirm the following
+      options:
+        - label: "This project was built using Kiro"
+          required: true
+        - label: "I have written an article/post about this project"
+          required: true
+        - label: "All provided links are working"
+          required: true
+        - label: "I agree to the community guidelines"
+          required: true
+          
+  - type: markdown
+    attributes:
+      value: |
+        ## Next Steps
+        
+        After submitting this issue, please:
+        1. Fork this repository
+        2. Add your project to the README.md following the template
+        3. Create a pull request referencing this issue
+        
+        Thank you for contributing to the Kiro community! 🚀
