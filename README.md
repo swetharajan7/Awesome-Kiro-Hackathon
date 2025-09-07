@@ -8,7 +8,7 @@
 
 **Submission Period:** July 14 - September 15, 2025  
 **Judging Period:** September 29 - October 20, 2025  
-**Winners Announced:** October 24, 2025  
+**Winners Announcement:** October 24, 2025  
 **Participants:** Limited to ~10,000 registered developers
 
 ## Contents
