@@ -23,16 +23,17 @@
 
 *Build tools that save time, reduce friction, or simplify everyday tasks - for developers or anyone else. If it boosts your flow, it fits here.*
 
-- **[Agent Rules MCP Server ](https://dev.to/kirodotdev/building-an-mcp-server-that-solves-every-developers-rules-management-problem-o86)** - Model Context Protocol (MCP) server solution helping developers manage and enforce coding rules across projects, eliminating the need for local rules folder files.
+- **[Agent Rules MCP Server ](https://github.com/4regab/agent-rules-mcp)** - Model Context Protocol (MCP) server solution helping developers manage and enforce coding rules across projects, eliminating the need for local rules folder files.
 - **[Smart Daily Planner](https://dev.to/kirodotdev/how-i-built-a-smart-daily-planner-using-kiro-in-a-day-kmi)** - Intelligent planning application organizing tasks and schedules with AI-powered suggestions and automation.
-- **[EVI - Economic Vitality Analysis Platform](https://dev.to/kirodotdev/building-evi-an-ai-powered-economic-vitality-analysis-platform-with-kiro-4fch)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
-- **[Dev.to Analytics with GitHub-Style Grids](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
+- **[EVI - Economic Vitality Analysis Platform](https://eviai.tech/)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
+- **[Dev.to Analytics with GitHub-Style Grids](https://github.com/gabrielkoo/devto-stats-github-action)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
 
 ## Games & Entertainment
 
 *Make something expressive, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
 
-- **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
+- **[Hacs 98](https://devpost.com/software/hacs-98)** - Windows 98 clone featuring calculator, notepad, Minecraft, solitaire, paint, and browser built with iterative Kiro development. 
+- **[Movie Plot Finder](https://dev.to/kirodotd ev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 
 *Submit your games and entertainment projects built with Kiro!*
 
@@ -40,7 +41,7 @@
 
 *Build something that helps others learn. Interactive tutorials, onboarding tools, or AI-enhanced learning platforms, etc.*
 
-- **[TutorBot - AI Study Tool](https://dev.to/kirodotdev/how-i-built-tutorbot-with-kiro-an-ai-powered-study-tool-for-students-and-self-learners-3f85)** - Comprehensive educational platform generating personalized lessons, quizzes, flashcards, and PDF summaries.
+- **[TutorBot - AI Study Tool](https://github.com/Emmy123222/Tutor)** - Comprehensive educational platform generating personalized lessons, quizzes, flashcards, and PDF summaries.
 - **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness features for balanced learning.
 
 ## Wildcard / Freestyle
@@ -49,7 +50,7 @@
 
 - **[AI Repository Search with Redis 8](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)** - Semantic search platform for GitHub repositories using Redis 8's vector similarity and 768-dimensional embeddings for intelligent discovery.
 - **[PersonaPrep - AI Personality Coach](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)** - AI-powered personality coaching platform providing personalized insights and development recommendations.
-- **[IntelliSense AI Writing Assistant](https://dev.to/kirodotdev/building-intellisense-ai-writing-assistant-how-kiro-transformed-my-development-journey-1lg4)** - AI writing assistant with intelligent suggestions, grammar corrections, and style improvements.
+- **[IntelliSense AI Writing Assistant](https://github.com/lxjeman/intellisense)** - AI writing assistant with intelligent suggestions, grammar corrections, and style improvements.
 
 ## Resources
 
