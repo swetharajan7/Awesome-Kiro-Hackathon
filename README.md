@@ -1,6 +1,6 @@
 # Awesome Kiro Hackathon Projects
 
-> A curated list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
+> A community made list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
 
 [Kiro](https://kiro.dev) transforms software development through spec-driven development, intelligent architecture decisions, and AI-assisted development workflows. This showcase highlights the incredible projects created by participants in the Code with Kiro Hackathon.
 
