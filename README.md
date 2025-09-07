@@ -1,191 +1,92 @@
-# 🚀 Kiro Hackathon Showcase
+# Awesome Kiro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to the showcase repository for [Kiro](https://kiro.devpost.com/) hackathon projects! This is a community-curated collection of amazing applications, tools, and experiments built using Kiro's AI IDE development environment.
+> A curated list of awesome projects, tools, and resources built with [Kiro](https://kiro.dev) - the AI-powered development environment that acts as your coding partner.
 
-## 🎯 About Kiro
+[Kiro](https://kiro.dev) transforms software development through autonomous code generation, intelligent architecture decisions, and AI-assisted development workflows. This list showcases the amazing applications, tools, and experiments created by the Kiro community.
 
-[Kiro](https://kiro.dev) is an AI-powered development environment that acts as your coding partner, helping developers build applications faster and smarter. From autonomous code generation to intelligent architecture decisions, Kiro transforms how we approach software development.
+## Contents
 
-## ✨ Featured Projects
+- [Data Science & Analytics](#data-science--analytics)
+- [AI & Machine Learning](#ai--machine-learning)
+- [Web Applications](#web-applications)
+- [Development Tools](#development-tools)
+- [Educational Platforms](#educational-platforms)
+- [Productivity Tools](#productivity-tools)
+- [Entertainment](#entertainment)
+- [Business Intelligence](#business-intelligence)
+- [Resources](#resources)
 
-### 🏢 EVI - AI-Powered Economic Vitality Analysis Platform
-**Author:** [Asad Marcus](https://dev.to/asadmarcus)  
-**Article:** [Building EVI with Kiro](https://dev.to/kirodotdev/building-evi-an-ai-powered-economic-vitality-analysis-platform-with-kiro-4fch)  
-**Technologies:** Flask, Python, SQLAlchemy, Google Maps API, Eurostat API  
+## Data Science & Analytics
 
-An AI-powered platform that analyzes economic vitality of any location worldwide using real-time data. Features comprehensive scoring algorithm, multi-source data integration from 4+ different APIs, and global coverage with intelligent fallback mechanisms.
+- **[EVI - Economic Vitality Analysis Platform](https://dev.to/kirodotdev/building-evi-an-ai-powered-economic-vitality-analysis-platform-with-kiro-4fch)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
+- **[Dev.to Analytics with GitHub-Style Grids](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
 
-**Key Features:**
-- Economic Vitality Scoring (0-100 scale) 
-- Multi-dimensional analysis engine with 12+ business categories
-- Real-time business data integration via Google Places API
-- ESG scoring and investment grade analysis
+## AI & Machine Learning
 
----
+- **[AI Repository Search with Redis 8](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)** - Semantic search platform for GitHub repositories using Redis 8's vector similarity and 768-dimensional embeddings for intelligent discovery.
+- **[PersonaPrep - AI Personality Coach](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)** - AI-powered personality coaching platform providing personalized insights and development recommendations.
+- **[IntelliSense AI Writing Assistant](https://dev.to/kirodotdev/building-intellisense-ai-writing-assistant-how-kiro-transformed-my-development-journey-1lg4)** - AI writing assistant with intelligent suggestions, grammar corrections, and style improvements.
 
-### 📊 Dev.to Analytics with GitHub-Style Contribution Grids
-**Author:** [Gabriel Koo](https://dev.to/gabrielkoo)  
-**Article:** [Building GitHub-Style Contribution Grids for dev.to](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)  
-**Technologies:** Python, SVG Generation, Dev.to API, GitHub Actions  
+## Web Applications
 
-A comprehensive analytics system that creates GitHub-style contribution grids for dev.to articles, complete with traffic source analysis and beautiful visualizations.
+- **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 
-**Key Features:**
-- GitHub-style activity visualizations with multiple themes
-- Traffic source breakdown with pie charts
-- Automated daily updates via GitHub Actions
-- Export capabilities for embedding anywhere
+## Development Tools
 
----
+- **[MCP Server for Rules Management](https://dev.to/kirodotdev/building-an-mcp-server-that-solves-every-developers-rules-management-problem-o86)** - Model Context Protocol (MCP) server solution helping developers manage and enforce coding rules across projects.
 
-### 🔍 AI-Powered Repository Search with Redis 8
-**Author:** [uratmangun](https://dev.to/uratmangun)  
-**Article:** [Building AI Repository Search](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)  
-**Technologies:** React, Deno, Redis 8, Vector Embeddings, Tailwind CSS  
+## Educational Platforms
 
-A semantic search platform for GitHub repositories using Redis 8's vector similarity capabilities and AI embeddings for intelligent repository discovery.
+- **[TutorBot - AI Study Tool](https://dev.to/kirodotdev/how-i-built-tutorbot-with-kiro-an-ai-powered-study-tool-for-students-and-self-learners-3f85)** - Comprehensive educational platform generating personalized lessons, quizzes, flashcards, and PDF summaries.
+- **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness features for balanced learning.
 
-**Key Features:**
-- Semantic search using 768-dimensional vector embeddings
-- Multi-modal search (description, name, combined)
-- Real-time repository management with GitHub API
-- Cosine similarity matching for relevant results
+## Productivity Tools
 
----
+- **[Smart Daily Planner](https://dev.to/kirodotdev/how-i-built-a-smart-daily-planner-using-kiro-in-a-day-kmi)** - Intelligent planning application organizing tasks and schedules with AI-powered suggestions and automation.
 
-### 🎬 Movie Plot Finder
-**Author:** [Isah Alamin](https://dev.to/isah_alamin_93d4e4d2ab01f)  
-**Article:** [I Built a Movie Plot Finder Using Kiro](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)  
-**Technologies:** React, Tailwind CSS, AI/ML APIs  
+## Business Intelligence
 
-An intelligent movie recommendation tool that finds films based on vague plot descriptions, scenes, or character details using AI-powered semantic matching.
+*Submit your business intelligence projects built with Kiro!*
 
-**Key Features:**
-- Natural language plot description input
-- AI-powered movie matching and recommendations
-- Instant search results with movie details
-- User-friendly interface with responsive design
+## Entertainment
 
----
+*Submit your entertainment projects built with Kiro!*
 
-### 🎓 TutorBot - AI-Powered Study Tool
-**Author:** [Emmanuel Ogheneovo](https://dev.to/emmanuel_ogheneovo_e5e040)  
-**Article:** [How I Built TutorBot with Kiro](https://dev.to/kirodotdev/how-i-built-tutorbot-with-kiro-an-ai-powered-study-tool-for-students-and-self-learners-3f85)  
-**Technologies:** TypeScript, Node.js, OpenAI API, PDF Generation  
+## Resources
 
-A comprehensive educational platform that generates personalized learning materials including lessons, quizzes, flashcards, and summaries for any topic.
+### Official
 
-**Key Features:**
-- AI-generated interactive lessons and quizzes
-- Flashcard creation with multiple export formats
-- PDF summaries for offline learning
-- Multiple choice and short answer question types
+- [Kiro Platform](https://kiro.dev) - Official Kiro development environment.
+- [Kiro Hackathon](https://kiro.devpost.com/) - Official hackathon page.
 
----
+### Community
 
-### 🌅 Smart Daily Planner
-**Article:** [Building a Smart Daily Planner with Kiro](https://dev.to/kirodotdev/how-i-built-a-smart-daily-planner-using-kiro-in-a-day-kmi)  
+- [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to this list.
+- [Project Template](CONTRIBUTING.md#project-template) - Template for adding new projects.
 
-An intelligent daily planning application that helps users organize their tasks and schedule efficiently using AI-powered suggestions and automation.
+## Contributing
 
----
+Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-### 🧘 StudyZen - Mindful Learning Platform
-**Article:** [StudyZen Built Using Kiro](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)  
+To add a project:
 
-A mindfulness-focused study platform that combines productivity tools with wellness features to create a balanced learning experience.
+1. Fork this repository
+2. Add your project following the format below
+3. Create a pull request with verification that the project was built with Kiro
 
----
-
-### ✍️ IntelliSense AI Writing Assistant
-**Article:** [Building IntelliSense AI Writing Assistant](https://dev.to/kirodotdev/building-intellisense-ai-writing-assistant-how-kiro-transformed-my-development-journey-1lg4)  
-
-An AI-powered writing assistant that provides intelligent suggestions, grammar corrections, and style improvements for content creators.
-
----
-
-### 🛠️ MCP Server for Rules Management
-**Article:** [Building an MCP Server for Developer Rules](https://dev.to/kirodotdev/building-an-mcp-server-that-solves-every-developers-rules-management-problem-o86)  
-
-A Model Context Protocol (MCP) server solution that helps developers manage and enforce coding rules and best practices across projects.
-
----
-
-### 👤 PersonaPrep - AI Personality Coach
-**Article:** [Building PersonaPrep with Kiro](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)  
-
-An AI-powered personality coaching platform that provides personalized insights and development recommendations based on personality assessments.
-
----
-
-## 🤝 How to Contribute
-
-We welcome submissions of Kiro-built projects! To add your project to this showcase:
-
-### Submission Guidelines
-
-1. **Fork this repository**
-2. **Add your project** following the template below
-3. **Create a pull request** with a clear description
-4. **Include verification** that your project was built with Kiro
-
-### Project Template
-
-```markdown
-### 🚀 Your Project Title
-**Author:** [Your Name](your-profile-link)  
-**Article:** [Your Article Title](article-link)  
-**Technologies:** List of technologies used  
-**Repository:** [GitHub Link](repo-link) *(optional)*  
-**Live Demo:** [Demo Link](demo-link) *(optional)*
-
-Brief description of your project (2-3 sentences explaining what it does and its main value proposition).
-
-**Key Features:**
-- Feature 1: Brief description
-- Feature 2: Brief description  
-- Feature 3: Brief description
-- Feature 4: Brief description
-
----
+**Format:**
+```
+- **[Project Name](article-link)** - Brief description highlighting key features and technologies used.
 ```
 
-### Requirements
-
+**Requirements:**
 - Project must be built using Kiro
-- Include a link to a blog post, article, or documentation about your project
-- Provide clear description and feature list
-- Ensure all links are working
-- Follow the established format for consistency
-
-### Content Guidelines
-
+- Include link to article, blog post, or documentation
 - Keep descriptions concise but informative
-- Focus on the value and unique features of your project
-- Include relevant technologies and frameworks used
-- Use clear, professional language
-- Add appropriate emojis to make listings visually appealing
+- Follow alphabetical order within categories
 
-## 🎉 Community Recognition
+## License
 
-Outstanding projects may be featured in:
-- Kiro's official social media channels
-- Community newsletters
-- Developer spotlights
-- Conference presentations
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-## 📞 Support & Questions
-
-- **Kiro Community:** Join the discussion on [Kiro's platform](https://kiro.dev)
-- **Issues:** Use GitHub issues for repository-related questions
-- **Hackathon Info:** Visit [kiro.devpost.com](https://kiro.devpost.com/)
-
-## 📜 License
-
-This repository and its contents are available under the MIT License. Individual projects may have their own licensing terms.
-
----
-
-**Built with ❤️ by the Kiro Community**
-
-*Showcase your Kiro-powered innovations and inspire the next generation of AI-assisted development!*
+To the extent possible under law, Kiro Community has waived all copyright and related or neighboring rights to this work.
