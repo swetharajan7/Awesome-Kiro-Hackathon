@@ -59,11 +59,6 @@ Doesn't fit the categories above? Build anything with Kiro - we love surprises!
 - **[Project Name](article-or-demo-link)** - Brief description highlighting key features and Kiro usage. **[🎥 Demo](video-link) | [💻 Code](repo-link)**
 ```
 
-### Community Project Format
-```markdown
-- **[Project Name](article-link)** - Brief description highlighting key features and technologies used.
-```
-
 ## Content Guidelines
 
 ### Writing Style
@@ -84,44 +79,3 @@ Doesn't fit the categories above? Build anything with Kiro - we love surprises!
 - Use proper markdown formatting
 - Ensure mobile-friendly presentation
 
-## Verification Requirements
-
-### For Hackathon Submissions
-Include in your pull request:
-1. Link to your hackathon submission on Devpost
-2. Confirmation that all hackathon requirements are met
-3. Brief explanation of how Kiro was used
-4. Category justification if unclear
-
-### For Community Projects
-Include in your pull request:
-1. Link to your article or documentation
-2. Confirmation that Kiro was used in development
-3. Brief description of the project's purpose
-
-## Review Process
-
-1. **Format Check**: Ensure proper template usage
-2. **Link Validation**: Verify all links are accessible
-3. **Requirement Verification**: Confirm hackathon compliance (if applicable)
-4. **Content Review**: Assess project relevance and quality
-5. **Final Approval**: Merge by maintainers
-
-## Judging Criteria Alignment
-
-For hackathon projects, consider how your submission demonstrates:
-
-- **Potential Value**: Wide utility, ease of use, accessibility
-- **Implementation**: Effective leverage of Kiro's capabilities
-- **Quality of Idea**: Creativity, originality, unique problem-solving approach
-
-## Questions?
-
-- 📋 Check the [Official Hackathon Rules](https://kiro.devpost.com/rules) for complete requirements
-- 💬 Open an issue for repository questions
-- 🌐 Visit [kiro.dev](https://kiro.dev) for Kiro platform support
-- 🏆 Visit [kiro.devpost.com](https://kiro.devpost.com/) for hackathon information
-
----
-
-**Build something amazing with Kiro! 🚀**

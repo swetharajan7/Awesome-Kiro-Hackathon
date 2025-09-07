@@ -53,86 +53,18 @@
 
 ## Resources
 
-### Official Hackathon
-
 - [Kiro Hackathon](https://kiro.devpost.com/) - Official hackathon page with rules and submission guidelines.
-- [Kiro Platform](https://kiro.dev) - Official Kiro development environment.
+- [Kiro IDE](https://kiro.dev) - Official Kiro development environment.
 - [Hackathon Rules](https://kiro.devpost.com/rules) - Complete official rules and requirements.
-
-### Prizes & Recognition
-
-**Overall Prizes:**
-- 🥇 **1st Place:** $30,000 USD
-- 🥈 **2nd Place:** $15,000 USD
-- 🥉 **3rd Place:** $10,000 USD
-
-**Category Prizes ($5,000 each):**
-- Best Productivity & Workflow Tools
-- Best Games & Entertainment
-- Best Educational Apps
-- Best Wildcard / Freestyle
-
-**Bonus Prizes:**
-- Most Innovative Use of Kiro: $2,000 (5 winners)
-- Influencer Judges Choice: $1,000 (4 winners)
-- Social Blitz Prize: $200 (5 winners)
-- Bonus Blog Post: $100 (100 winners)
-
-### Judging Criteria
-
-Projects are evaluated equally on three criteria:
-
-1. **Potential Value** - Extent to which the solution can be widely useful, easy to use, accessible, etc.
-2. **Implementation** - How well the idea is leveraging Kiro.
-3. **Quality of the Idea** - Creativity, originality of the project, unique approach to solving challenges.
-
-### Community
-
 - [Kiro Discord](https://discord.gg/kirodotdev) - Join the Kiro community on Discord.
-- [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to this list.
-- [Project Template](CONTRIBUTING.md#project-template) - Template for adding new projects.
+- [Kiro Community Reddit](https://www.reddit.com/r/kiroIDE/) - Discuss Kiro-related topics
 
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-### For Hackathon Participants
 
-To add your hackathon project:
+## License 
 
-1. Fork this repository
-2. Add your project following the hackathon format below
-3. Create a pull request with verification that the project meets hackathon requirements
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. Individual projects may have their own licenses - please refer to each project's repository for specific licensing terms.
 
-**Hackathon Project Format:**
-```
-- **[Project Name](article-or-demo-link)** - Brief description highlighting key features and Kiro usage. **[🎥 Demo](video-link) | [💻 Code](repo-link)**
-```
-
-**Hackathon Requirements:**
-- Project must be built with Kiro during the submission period
-- Include link to demonstration video (under 3 minutes)
-- Provide link to public repository with OSI-approved open source license
-- Specify which hackathon category the project targets
-- Include explanation of how Kiro was used in development
-
-### For Community Projects
-
-**Standard Format:**
-```
-- **[Project Name](article-link)** - Brief description highlighting key features and technologies used.
-```
-
-**Requirements:**
-- Project must be built with Kiro
-- Include link to article, blog post, or documentation
-- Keep descriptions concise but informative
-- Follow alphabetical order within categories
-
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Individual projects may have their own licenses - please refer to each project's repository for specific licensing terms.
