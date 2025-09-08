@@ -20,6 +20,9 @@
 - **[Smart Daily Planner](https://dev.to/kirodotdev/how-i-built-a-smart-daily-planner-using-kiro-in-a-day-kmi)** - Intelligent planning application organizing tasks and schedules with AI-powered suggestions and automation.
 - **[EVI - Economic Vitality Analysis Platform](https://eviai.tech/)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
 - **[Dev.to Analytics with GitHub-Style Grids](https://github.com/gabrielkoo/devto-stats-github-action)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
+- **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app to convert your code snippets into an animated video.
+  
+  <img src="https://github.com/user-attachments/assets/67cb3c84-34fe-458e-b2e7-0ff1aad022ec" height="200px" />
 
 ## Games & Entertainment
 
