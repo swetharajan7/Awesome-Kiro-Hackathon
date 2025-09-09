@@ -45,6 +45,7 @@
 - **[AI Repository Search with Redis 8](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)** - Semantic search platform for GitHub repositories using Redis 8's vector similarity and 768-dimensional embeddings for intelligent discovery.
 - **[PersonaPrep - AI Personality Coach](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)** - AI-powered personality coaching platform providing personalized insights and development recommendations.
 - **[IntelliSense AI Writing Assistant](https://github.com/lxjeman/intellisense)** - AI writing assistant with intelligent suggestions, grammar corrections, and style improvements.
+- **[YiFan FengShen](https://yffs.vercel.app/)** - An AI-powered intelligent recipe generation platform supporting Chinese Eight Great Cuisines + International Cuisine, providing nutritional analysis, wine pairing, recipe image generation, and comprehensive cooking guidance. **[💻 Code](https://github.com/liu-ziting/what-to-eat/blob/master/README_EN.md)**
 
 ## Resources
 
