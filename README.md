@@ -24,8 +24,9 @@
 
 ## Games & Entertainment
 
-*Make something expressive, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
+*Make something entertaining, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
 
+- **[Retro Ai](https://bot.lz-t.top/) - Retro pixel style AI chat application. **[💻 Code](https://github.com/liu-ziting/retro-ai/blob/main/README_EN.md)**
 - **[Hacs 98](https://devpost.com/software/hacs-98)** - Windows 98 clone featuring calculator, notepad, Minecraft, solitaire, paint, and browser built with iterative Kiro development. 
 - **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 
