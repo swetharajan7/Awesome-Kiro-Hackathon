@@ -21,7 +21,7 @@
 - **[EVI - Economic Vitality Analysis Platform](https://eviai.tech/)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
 - **[Dev.to Analytics with GitHub-Style Grids](https://github.com/gabrielkoo/devto-stats-github-action)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
 - **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app that converts code snippets into animated videos, built entirely with Kiro. **[🎥 Demo](https://www.youtube.com/watch?v=NJbMWKCa7eY) | [💻 Code](https://github.com/JohnVersus/animate_code/)**
-- **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. **[💻 Code](https://github.com/swetharajan7/StellarRec/)**
+- **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. 
 
 
 ## Games & Entertainment
