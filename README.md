@@ -1,8 +1,6 @@
 # Awesome Kiro Hackathon Projects
 
-> A community made list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
-
-[Kiro](https://kiro.dev) transforms software development through spec-driven development, intelligent architecture decisions, and AI-assisted development workflows. This showcase highlights the incredible projects created by participants in the Code with Kiro Hackathon.
+A community made list of awesome projects built for the [Code with Kiro Hackathon](https://kiro.devpost.com/) - featuring innovative applications created with [Kiro](https://kiro.dev), the AI-powered development environment.
 
 ## Contents
 
@@ -23,7 +21,6 @@
 - **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app that converts code snippets into animated videos, built entirely with Kiro. **[🎥 Demo](https://www.youtube.com/watch?v=NJbMWKCa7eY) | [💻 Code](https://github.com/JohnVersus/animate_code/)**
 - **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. 
 
-
 ## Games & Entertainment
 
 *Make something entertaining, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
@@ -32,8 +29,6 @@
 - **[Hacs 98](https://devpost.com/software/hacs-98)** - Windows 98 clone featuring calculator, notepad, Minecraft, solitaire, paint, and browser built with iterative Kiro development. 
 - **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 - **[Mirae](https://github.com/RuntimeRenegade/mirae)** - Immersive Storytelling with interactive words for Young Readers Powered by Dreams.
-
-*Submit your games and entertainment projects built with Kiro!*
 
 ## Educational Apps
 
@@ -50,7 +45,7 @@
 *Doesn't fit the categories above? This is your category. Build anything with Kiro - we love surprises!*
 
 - **[AI Repository Search with Redis 8](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)** - Semantic search platform for GitHub repositories using Redis 8's vector similarity and 768-dimensional embeddings for intelligent discovery.
-- **[PersonaPrep - AI Personality Coach](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)** - AI-powered personality coaching platform providing personalized insights and development recommendations.
+- **[PersonaPrep - AI Personality Coach](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)** - AI-powered personality coaching platform providing personalized insights and development recommendations. **[💻 Code](https://github.com/vanichitkara/PersonaPrep)** 
 - **[IntelliSense AI Writing Assistant](https://github.com/lxjeman/intellisense)** - AI writing assistant with intelligent suggestions, grammar corrections, and style improvements.
 - **[YiFan FengShen](https://yffs.vercel.app/)** - An AI-powered intelligent recipe generation platform supporting Chinese Eight Great Cuisines + International Cuisine, providing nutritional analysis, wine pairing, recipe image generation, and comprehensive cooking guidance. **[💻 Code](https://github.com/liu-ziting/what-to-eat/blob/master/README_EN.md)**
 
