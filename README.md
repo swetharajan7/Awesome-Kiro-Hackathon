@@ -43,7 +43,6 @@
 - **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness
   features for balanced learning.
 - **[BlueandCosmos](https://www.blueandcosmos.com/index.html)** – An educational portal for space exploration that helps students learn, connect, and collaborate through real-time insights, mentorship, and community features. Built with Kiro for vibe-coding, spec-driven development, hooks, and steering.  
-**[💻 Code](https://github.com/swetharajan7/BlueandCosmos/tree/main)**
 
 
 ## Wildcard / Freestyle
