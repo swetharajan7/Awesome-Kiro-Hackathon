@@ -23,7 +23,6 @@
 - **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app that converts code snippets into animated videos, built entirely with Kiro. **[🎥 Demo](https://www.youtube.com/watch?v=NJbMWKCa7eY) | [💻 Code](https://github.com/JohnVersus/animate_code/)**
 - **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. **[💻 Code](https://github.com/swetharajan7/StellarRec/)**
 
-
 ## Games & Entertainment
 
 *Make something entertaining, interactive, or just plain fun! Games, interactive storytelling experiences, visual experiments, etc.*
@@ -32,8 +31,6 @@
 - **[Hacs 98](https://devpost.com/software/hacs-98)** - Windows 98 clone featuring calculator, notepad, Minecraft, solitaire, paint, and browser built with iterative Kiro development. 
 - **[Movie Plot Finder](https://dev.to/kirodotdev/i-built-a-movie-plot-finder-using-kiro-1f06)** - Intelligent movie recommendation tool finding films based on vague plot descriptions using AI-powered semantic matching.
 - **[Mirae](https://github.com/RuntimeRenegade/mirae)** - Immersive Storytelling with interactive words for Young Readers Powered by Dreams.
-
-*Submit your games and entertainment projects built with Kiro!*
 
 ## Educational Apps
 
