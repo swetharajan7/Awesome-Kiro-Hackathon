@@ -19,7 +19,7 @@ A community made list of awesome projects built for the [Code with Kiro Hackatho
 - **[EVI - Economic Vitality Analysis Platform](https://eviai.tech/)** - AI-powered platform analyzing economic vitality of global locations with comprehensive scoring, multi-source data integration, and real-time business insights.
 - **[Dev.to Analytics with GitHub-Style Grids](https://github.com/gabrielkoo/devto-stats-github-action)** - Analytics system creating GitHub-style contribution grids for dev.to articles with traffic source analysis and automated daily updates.
 - **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app that converts code snippets into animated videos, built entirely with Kiro. **[🎥 Demo](https://www.youtube.com/watch?v=NJbMWKCa7eY) | [💻 Code](https://github.com/JohnVersus/animate_code/)**
-- **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. 
+
 
 ## Games & Entertainment
 
@@ -37,7 +37,8 @@ A community made list of awesome projects built for the [Code with Kiro Hackatho
 - **[TutorBot - AI Study Tool](https://github.com/Emmy123222/Tutor)** - Comprehensive educational platform generating personalized lessons, quizzes, flashcards, and PDF summaries.
 - **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness
   features for balanced learning.
-- **[BlueandCosmos](https://www.blueandcosmos.com/index.html)** – An educational portal for space exploration that helps students learn, connect, and collaborate through real-time insights, mentorship, and community features. Built with Kiro for vibe-coding, spec-driven development, hooks, and steering.  
+- **[BlueandCosmos](https://www.blueandcosmos.com/index.html)** – An educational portal for space exploration that helps students learn, connect, and collaborate through real-time insights, mentorship, and community features. Built with Kiro for vibe-coding, spec-driven development, hooks, and steering.
+- **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. 
 
 
 ## Wildcard / Freestyle
